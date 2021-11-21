@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "docker-machine": "^3.0.1"
+  }
+}
